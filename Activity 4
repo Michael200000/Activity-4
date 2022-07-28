@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+ 
+    <head>
+        <meta charset="utf-8">
+        <meta name="Viewport"content="Width=width-device,initial scale 1">
+        <link rel="stylesheet"href="Design.css">
+        <title>User</title>
+        
+    <style>
+        body{
+            margin:0;
+            padding:0;
+            background-image: url(file:///C:/Users/underground/Desktop/IPT/Activity%204-IPT/SUNSET.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+        }
+        #container{
+            width:960px;
+            margin: 0 auto;
+            color: black;
+            
+        }
+        .coll{
+            width:450px;
+            float:left;
+            color: black;
+           
+        }
+        .col2{
+            width:450px;
+            float:left;
+            color: black;
+            
+        }
+        img{
+            width:200;
+            height:200;
+            float: right;
+            margin:0 200px 0 0;
+            border: 3px solid lightblue;
+ 
+        }
+         h2{
+            margin:30px 30px 0 200;
+            color: black;
+        }
+        h1{
+            border:5px transparent;
+            outline-color: transparent;
+            color: black;
+        }
+        h3{
+            color: black;
+            opacity: 80%;
+            font-weight:  bold;
+            text-align: center;
+        }
+ 
+    </style>
+    </head>
+ 
+    
+        <body>
+            <h1>My Information </h1>
+<br /><br />
+            
+            <img src="file:///C:/Users/underground/Desktop/IPT/Activity%204-IPT/ate.jpg"width="200" height="200" float="right" margin="0 0 20px 20px">
+            <hr>
+            <h1>Name mo</h1>
+            <h2>I Love Programming</h2>
+            <hr>
+            <br /><br />
+        <div id="container">
+            <div class="coll">
+                <h2 class="heading"> </h2>
+               <h2><p>PLACE OF BIRTH:</p></h2>
+               <h2> <p>CIVIL STATUS:</p></h2>
+               <h2> <p>RELIGION:</p></h2>
+                <h2> <p>CITIZENSHIP:</p></h2>
+                <h2> <p>HEIGHT:</p></h2>
+            </div>
+            <div class="col2">
+                <h2 class="heading"> </h2>
+            <h2> <p>QUEZON CITY</p></h2>
+            <h2> <p>SINGLE</p></h2>
+            <h2> <p>CATHOLIC</p></h2>
+            <h2> <p>FILIPINO</p></h2>
+            <h2> <p>5'3</p></h2>
+            </div>
+        </div>
+        </div>
+
+
+
+
+
+        </body>
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <a href="family.html">
+            <button type="button" class="button">
+                <span class="button_icon">
+                 <ion-icon name="home-outline"></ion-icon>
+               
+                </span>
+              </button>
+            </a>
+               <p style="color:black">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore ipsa alias iusto nisi odio laborum cum doloribus quod optio deserunt illum eaque, officiis nesciunt odit quos esse fuga porro? Minus accusamus velit impedit, iure possimus, hic doloribus, maiores perspiciatis voluptate veritatis quae a ab. Ipsum maiores ad similique excepturi consequatur!</p>
+             
+             </a>
+           
+            <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+ 
+</html>
